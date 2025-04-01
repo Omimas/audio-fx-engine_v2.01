@@ -6,3 +6,7 @@ Debug/
 *.wav
 vcpkg/
 vcpkg/
+AudioEffectsApp/x64/Debug/
+AudioEffectsApp/x64/Release/
+x64/Debug/
+x64/Release/
