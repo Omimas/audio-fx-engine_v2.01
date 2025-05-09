@@ -24,9 +24,9 @@ gantt
     dateFormat  YYYY-MM-DD
     section Core Features
     Real-time Audio Input      :active, 2025-04-19, 30d
-    GUI Interface (Qt)         :2025-05-01, 45d
-    VST Plugin Support         :2025-06-15, 60d
+    GUI Interface (Qt)         :
+    VST Plugin Support         :
     
     section Optimization
-    Multi-thread Processing    :2025-07-01, 30d
-    WASM Build Support         :2025-08-01, 45d
+    Multi-thread Processing    :
+    WASM Build Support         :
