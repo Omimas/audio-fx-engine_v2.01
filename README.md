@@ -15,18 +15,3 @@ Professional audio processing application with real-time effects (echo, pitch sh
 - CMake (Cross-platform builds)
 - Visual Studio 2022 (Windows)
 
-## 🗺️ Project Roadmap
-
-### 🚀 Upcoming Features
-```mermaid
-gantt
-    title Development Timeline
-    dateFormat  YYYY-MM-DD
-    section Core Features
-    Real-time Audio Input      :active, 2025-04-19, 30d
-    GUI Interface (Qt)         :
-    VST Plugin Support         :
-    
-    section Optimization
-    Multi-thread Processing    :
-    WASM Build Support         :
